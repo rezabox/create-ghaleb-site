@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&family=Open+Sans:wght@400;600;700&display=swap');
+/*------------ mobile--------- */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#logo{
+      width: 40%;       
+}
+
+ body{
+        font-family: 'Kumbh Sans', sans-serif;
+        max-width: 100%;
+        font-size:16px;
+    }
+    .container{  
+          overflow: hidden;
+    }
+   
+    .title{
+        margin-left: 30px;
+        
+    }
+    .header h1{
+         margin-top: 30px;
+    }
+    #img-1{
+        position: relative;
+        width:40%;
+        margin-top:15px;
+    }
+    #clicker{
+          position: absolute;
+          margin-left: 120px;
+          margin-top: 10px;
+          padding: 5px 20px;
+          border-radius: 12px;
+          background-color: #fff;
+          border: 2px solid hsl(321, 100%, 78%);
+          color: hsl(322, 100%, 66%);
+          box-shadow: 0 0 2px gray;
+    }
+    .header{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .header , h1,p{
+          margin: 5px;
+    }
+    #get{
+         padding: 5px 15px;
+         margin-top: 5px;
+         border-radius: 12px;
+         color:white ;
+         background-color: hsl(322, 100%, 66%);
+         border: 2px solid hsl(321, 100%, 78%);
+    }
+    #img-2{
+        width: 90%;
+        margin-top: 25px;
+        
+    }
+    #img-3 ,#img-4,#img-5{
+         width: 90%;
+         margin-left: 25px;
+         margin-top: 20px;
+    }
+  
+    .header-main{
+       background-color: hsl(207, 100%, 98%);
+       
+    }
+    .header-main h1,p{
+          text-align: center;
+          margin: 20px;
+          
+    }
+    .header-user  {
+           text-align: center;
+           background-color: hsl(207, 100%, 98%);
+
+    }
+    #img-5{
+        width: 80%;   
+        margin-right: 50px;
+    }
+    .header-read{
+           text-align: center;
+    }
+    .header-read ,p{
+           font-size: 13px;
+    }
+    .header-footer{
+           text-align: center;           
+    }
+    .header-footer ,h1{
+             font-size: 30px;
+             margin-top: 20px;
+    }
+
+    #footer{
+          margin-bottom:50px;
+          padding: 10px 30px;
+          border-radius: 14px;
+          color: #fff;
+          background-color: hsl(322, 100%, 66%);
+          border: 2px solid hsl(321, 100%, 78%);
+    }
+    .footer h2 {
+            text-transform: uppercase;
+            
+    }
+    .footer ,p{
+          text-transform: lowercase;    
+    }
+    #user{
+          margin-left: 80px;
+          padding: 10px 30px;
+          align-items: center;
+          border-radius: 10px;
+    }
+    .end{ 
+         background-color: hsl(192, 100%, 9%);
+         color: white;    
+         max-width: 100%;
+         height: 400px;
+         margin-top: 30px;
+         
+    }
+    .end-top{
+        margin: 40px;
+    }
+    .footer ,h1{
+            margin:20px;
+
+    } 
+    .social{
+         font-size: small;
+         text-align: center;
+         
+    }
+    #sub{
+        display:block;
+        margin-top: 10px;
+        padding: 10px 20px;
+        margin-left:180px;
+        margin-bottom: 60px;
+        background-color: hsl(322, 100%, 66%);
+        color: #fff;
+        border: 3px solid hsl(321, 100%, 78%);
+        border-radius: 12px;
+    }
+    .phone {
+            text-align: center;
+    }
+    .email{
+          text-align: center;
+          margin: 10px;
+    }
+ 
+        
+    
+
